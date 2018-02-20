@@ -6,7 +6,7 @@ public class ThreadImpl implements Runnable
 	private Counter counter;
 	private String threadName;
 
-	public ThreadImpl(String name, Counter counter)
+	ThreadImpl(String name, Counter counter)
 	{
 		this.threadName = name;
 		this.counter = counter;

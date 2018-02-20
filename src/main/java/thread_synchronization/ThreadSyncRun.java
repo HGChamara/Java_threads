@@ -1,7 +1,4 @@
-package thread_runnable;
-
-import thread_synchronization.Counter;
-import thread_synchronization.ThreadImpl;
+package thread_synchronization;
 
 public class ThreadSyncRun 
 {
